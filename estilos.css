@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; margin: 0; color: #222; }
+header { background: #3b2f4a; color: #fff; padding: 1rem; }
+nav a { color: #fff; margin-right: 1rem; }
+main { padding: 1rem; max-width: 640px; margin: auto; }
+.promo { background: #e8f4f3; padding: 0.75rem; border-radius: 6px; } /* Color de la promoción */
+button { padding: 0.5rem 1rem; cursor: pointer; }
