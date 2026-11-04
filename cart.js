@@ -2,7 +2,7 @@
 
 function calcularTotal(subtotal) {
   // ERROR INTENCIONAL: multiplicar por un texto da NaN
-  return subtotal * "DESCUENTO";
+  return subtotal * 0.9;
 }
 
 function mostrarTotal() {
